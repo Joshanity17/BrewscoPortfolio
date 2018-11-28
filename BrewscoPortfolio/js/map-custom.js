@@ -13,11 +13,11 @@
             var map_zoom = selector_map.attr('data-zoom');
 
             if (img_pin == null) {
-                img_pin = 'images/icons/location.png';
+                img_pin = 'images/icons/logo-black.png';
             }
             if (data_map_x == null || data_map_y == null) {
-                data_map_x = 40.007749;
-                data_map_y = -93.266572;
+                data_map_x = 14.6362512;
+                data_map_y = 121.0360093;
             }
             if (scrollwhell == null) {
                 scrollwhell = 0;
